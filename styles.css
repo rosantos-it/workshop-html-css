@@ -16,7 +16,7 @@ body {
 }
 
 .banner {
-    background-image: url(./arquivos/smoothie.jpg);
+    background-image: url(imagens/smoothie.jpg);
     background-position: center;
     background-size: cover;
     height: 300px;
